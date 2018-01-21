@@ -7,3 +7,6 @@ function lastimageselector(){
   return (' last img');
 }
 
+function ninjababyselector(){
+  return 
+}
