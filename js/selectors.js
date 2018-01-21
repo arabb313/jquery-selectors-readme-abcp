@@ -19,5 +19,3 @@ function divselectors(){
 function firstListItem(){
   return $('ul li');
 }
-
-}
